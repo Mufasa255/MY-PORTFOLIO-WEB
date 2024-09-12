@@ -57,7 +57,7 @@ Contributions to this portfolio are welcome! If you have suggestions or improvem
 Feel free to reach out to me via:
 
 - **Email**: [kelvinbyabato92@gmail.com](mailto:kelvinbyabato92@gmail.com.com)
-- **LinkedIn**: [linkedin.com/in/kelvin-byabato](www.linkedin.com/in/kelvin-byabato-658106257
+- **LinkedIn**: www.linkedin.com/in/kelvin-byabato-658106257
 
 )
 - **GitHub**: [github.com/Mufasa255](https://github.com/Mufasa255)
