@@ -35,14 +35,14 @@ To view and run the portfolio website locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-portfolio.git
+    git clone https://github.com/Mufasa255/MY-PORTFOLIO-WEB.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
-    cd your-portfolio
+    cd MY-WEB-PORTFOLIO
     ```
 3. **Open the Website**:
-    Open `index.html` in your preferred web browser.
+    Open `home.html` in your preferred web browser.
 
 ## Deployment
 
@@ -56,9 +56,11 @@ Contributions to this portfolio are welcome! If you have suggestions or improvem
 
 Feel free to reach out to me via:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Email**: [kelvinbyabato92@gmail.com](mailto:kelvinbyabato92@gmail.com.com)
+- **LinkedIn**: [linkedin.com/in/kelvin-byabato](www.linkedin.com/in/kelvin-byabato-658106257
+
+)
+- **GitHub**: [github.com/Mufasa255](https://github.com/Mufasa255)
 
 ## License
 
